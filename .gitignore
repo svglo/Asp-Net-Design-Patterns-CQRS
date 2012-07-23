@@ -1,4 +1,5 @@
 *resharper.user
+*ncrunchsolution*
 [Dd]ebug/
 [Rr]elease/
 build/
@@ -7,4 +8,5 @@ build/
 *.suo
 *.sln.cache
 _ReSharper.*/
+_NCrunch*/
 *.user
